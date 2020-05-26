@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="black">#000</color>
+    <color name="grey">#F2F2F2</color>
+    <color name="line">#C0C0C0</color>
+    <color name="white">#FFFFFF</color>
+    <color name="titleTextColor">#000</color>
+    <color name="darkGrey">#F6F6F6</color>
+    <color name="button_pressed">#ff8a00</color>
+    <color name="button_focused">#ff8a00</color>
+    <color name="button_default">#1c76bb</color>
+    <color name="sign_up">#446F88</color>
+    <color name="splash_screen_bg">#00C3FF</color>
+    <color name="controller_bg_color">#ECF0F1</color>
+    <color name="red">#ff0000</color>
+    <color name="toolbar_color">#A0A0A0</color>
+</resources>

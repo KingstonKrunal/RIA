@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">RIA</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_in_details">sign in with your email and password</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_up"><u>Sign Up</u></string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="controller_id">Controller ID</string>
+    <string name="sign_in_link"><u>Sign In</u></string>
+    <string name="notification">Notification</string>
+    <string name="profile">Profile</string>
+    <string name="controller">Controller</string>
+    <string name="log_out">Log Out</string>
+    <string name="un_armed">Un-Armed</string>
+    <string name="appliancees">APPLIANCES</string>
+    <string name="light">Light</string>
+    <string name="fan">Fan</string>
+    <string name="on">On</string>
+    <string name="connection">Wake up your connection !</string>
+    <string name="connectionDetails">Your internet seems off or too slow to reach our servers</string>
+    <string name="remove_photo">Remove photo</string>
+    <string name="sign_up_details">Don\'t have an account?</string>
+    <string name="have_an_account">Have an account?</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="enter_controller_id">Enter Controller ID</string>
+    <string name="controller_id_detail">Controller ID is used to identify arduino board that you are using.</string>
+    <string name="xxxx">xxxx</string>
+    <string name="back">Cancel</string>
+</resources>

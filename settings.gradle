@@ -1,0 +1,2 @@
+rootProject.name='Relationship Information App'
+include ':app'
